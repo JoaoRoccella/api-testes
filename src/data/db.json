@@ -1,0 +1,41 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuario": "joao",
+      "senha": "1234"
+    },
+    {
+      "usuario": "alunofront",
+      "senha": "aslf123",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome_produto": "Sapato masculino Oxford",
+      "preco": 125
+    },
+    {
+      "nome_produto": "Sapato feminino Manhattan",
+      "preco": "150.65",
+      "id": 2
+    },
+    {
+      "nome_produto": "Sapato feminino Miami",
+      "preco": "250.78",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nome_produto": "Sapato masculino Rhode Island",
+      "preco": "253.45"
+    }
+  ]
+}
